@@ -1,0 +1,10 @@
+Cost of Blue Mojito= 65.0
+Cost of Manchuria= 560.0
+Cost of Noodles= 570.0
+Cost of Soup= 280.0
+Cost of Biriyani= 260.0
+Cost of Paneer Butter Masala= 0
+Subtotal= 1735.0
+Satya Tax= 17.525252525252526
+GST= 347.0
+Total= 2099.5252525252527
